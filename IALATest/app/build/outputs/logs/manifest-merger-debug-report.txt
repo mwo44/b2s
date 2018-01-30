@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c92f00bdc35ee65a598964e83268a418a4d56430/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/e66434dbaa20f268c31275a95fdf9f990fa164bd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c7653ab73e0bdb67bdfa83d0e788b02b88080892/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/49454830c813ece85fa2380c2cf6cbace856e12c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c4da45fc241178015ab6723f3a91f626c37949bb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/9350a044b4e57a7a49e77c46921f0f678f609529/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/73d60a7126f548f40dc121fb3dc2ec4c66207d8a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/015c3ce53620eddfc775de59cb38fe30dade2a32/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/09235ff51ded75ff209fd53dd92ff00769600989/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mwolniak/.android/build-cache/cf4b25c482398d62c47418c281a973fc0b904109/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:9:9-48
+	android:allowBackup
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:7:9-43
+	android:networkSecurityConfig
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:11:9-69
+	android:theme
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.iala.ialatest.IALAHome
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:14:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:19:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:24:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml:25:22-76
+uses-sdk
+INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c92f00bdc35ee65a598964e83268a418a4d56430/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/e66434dbaa20f268c31275a95fdf9f990fa164bd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c7653ab73e0bdb67bdfa83d0e788b02b88080892/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/49454830c813ece85fa2380c2cf6cbace856e12c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c4da45fc241178015ab6723f3a91f626c37949bb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/9350a044b4e57a7a49e77c46921f0f678f609529/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/73d60a7126f548f40dc121fb3dc2ec4c66207d8a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/015c3ce53620eddfc775de59cb38fe30dade2a32/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/09235ff51ded75ff209fd53dd92ff00769600989/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mwolniak/.android/build-cache/cf4b25c482398d62c47418c281a973fc0b904109/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c92f00bdc35ee65a598964e83268a418a4d56430/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwolniak/AndroidStudioProjects/IALATest/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c92f00bdc35ee65a598964e83268a418a4d56430/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/e66434dbaa20f268c31275a95fdf9f990fa164bd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c7653ab73e0bdb67bdfa83d0e788b02b88080892/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/49454830c813ece85fa2380c2cf6cbace856e12c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c4da45fc241178015ab6723f3a91f626c37949bb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/9350a044b4e57a7a49e77c46921f0f678f609529/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/73d60a7126f548f40dc121fb3dc2ec4c66207d8a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/015c3ce53620eddfc775de59cb38fe30dade2a32/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/09235ff51ded75ff209fd53dd92ff00769600989/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c92f00bdc35ee65a598964e83268a418a4d56430/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mwolniak/.android/build-cache/c92f00bdc35ee65a598964e83268a418a4d56430/output/AndroidManifest.xml:26:9-47
